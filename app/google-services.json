@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "22662832547",
+    "firebase_url": "https://demonotificationlive.firebaseio.com",
+    "project_id": "demonotificationlive",
+    "storage_bucket": "demonotificationlive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22662832547:android:f25c1dfd107909f5",
+        "android_client_info": {
+          "package_name": "com.example.heenali.demo_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22662832547-c1sl1g25j8ngtnf61d87nmdmarg13fgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxjdTemO47eNQUCxdMYLU_e4812b3Pbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
